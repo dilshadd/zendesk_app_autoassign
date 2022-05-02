@@ -1,0 +1,9 @@
+{
+  "app": {
+    "name": "User Assignment Manager",
+    "short_description": "Auto assign tickets to current users when the open a ticket",
+    "long_description":
+     "We at Zeeroot Labs helps you design and build custom apps, workflows or integrations to improve operational efficiency and there by reducing the cost.\n\nUser Assignment Manager help you with the following\n- Assignment timestamps \n- User level metrics \n- SLAs \n- Number of user worked \n - Multiteam metrics.\nUAM assign tickets to user as soon as they view it. This app helps you to reassign current user to a ticket which was assigned to another team member as well as assign the current user for an unassigned case. \n\nAdmins and owners are expempted from the workflow inorder to give flexibility for auditing the tickets. \n\nApp have a UI to give you updates on assignment and reason from the exemption of assignment if any.",
+    "installation_instructions": "Simply click install. Find out how UAM helps your metrics and audit, as well as improving the team efficiency.\nWe provide 7 days free trial followed by lowest cost possible. Install the app and enjoy UAM.\n\nFor any additional feature, customization of the app or any other queries, please contact zeerootlabs@gmail.com"
+  }
+}
